@@ -31,8 +31,9 @@ npm run lint
 ```
 
 ### Routes
-
+```
 /login - login page
 /register - registration page
 /verify - verification page
 / - home/success page
+```
